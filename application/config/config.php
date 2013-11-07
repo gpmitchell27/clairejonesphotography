@@ -14,7 +14,7 @@
 | path to your installation.
 |
 */
-$config['base_url']	= './clairejonesphotography/';
+$config['base_url']	= 'http://gpmitchell27.github.io/clairejonesphotography/';
 
 /*
 |--------------------------------------------------------------------------
